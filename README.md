@@ -5,10 +5,15 @@
 </h1>
 
 <p align="center">
-  <a href="https://riteshyadav.dev">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Loading...-000000?style=for-the-badge&logo=firefox&logoColor=00FFFF" alt="Portfolio"/>
+  <!-- Portfolio Badge with new style & link -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00FFFF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
-  <img src="https://img.shields.io/badge/💻%20Open%20for%20Work-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Open for work"/>
+
+  <!-- Open for Work Badge -->
+  <a href="mailto:dev.ritesh.in@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/💻%20Open%20for%20Work-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Open for Work"/>
+  </a>
 </p>
 
 ---
@@ -56,13 +61,13 @@
 ## 🌍 **Connect With Me**
 
 <p align="center">
-  <a href="mailto:riteshyadav.dev@gmail.com">
+  <a href="mailto:riteshyadav.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/ritesh-yadav">
+  <a href="https://www.linkedin.com/in/ritesh-yadav" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/riteshyadav31">
+  <a href="https://github.com/riteshyadav31" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
