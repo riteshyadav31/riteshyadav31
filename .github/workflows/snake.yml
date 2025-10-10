@@ -1,11 +1,13 @@
 name: Generate Snake Animation 🐍
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # Har din 9:37 PM (IST) = 4:07 PM (UTC)
     - cron: "7 16 * * *"
   workflow_dispatch:
-    # Manually run karne ka option
   push:
     branches:
       - main
