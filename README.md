@@ -1,85 +1,100 @@
-<!-- 💫 Premium GitHub Profile by Ritesh Yadav 💫 -->
+<!-- 🚀 Python Backend Developer  -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritesh+Yadav;Full+Stack+Web+%26+App+Developer;DevOps+Engineer+%26+Cloud+Enthusiast;Turning+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritesh+Yadav;Python+Backend+Developer;FastAPI+%7C+REST+API+Developer;Building+Scalable+Backend+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <!-- Portfolio Badge with new style & link -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00FFFF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  <a href="mailto:dev.ritesh.in@gmail.com">
+    <img src="https://img.shields.io/badge/💻%20Open%20for%20Work-00AEEF?style=for-the-badge&logo=gmail&logoColor=white" alt="Open for Work"/>
   </a>
 
-  <!-- Open for Work Badge -->
-  <a href="mailto:dev.ritesh.in@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/💻%20Open%20for%20Work-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Open for Work"/>
-  </a>
-</p>
-
----
-
-## 🌌 **About Me**
-
-💫 I'm a **Web & App Developer** and **DevOps Engineer**, blending creativity with clean, efficient code.  
-🚀 Building scalable, cloud-connected apps & deploying them like a boss 💻☁️  
-💡 Constantly exploring new tech, optimizing workflows, and automating the boring stuff!  
-✨ **Current Focus:** Mastering Cloud Infrastructure & DevOps tools  
-⚙️ **Goal:** Become a top-tier Cloud + DevOps Architect  
-☕ **Quote:** _“Code. Deploy. Repeat. Downtime is not an option.”_
-
----
-
-## ⚡ **Tech Arsenal**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,bootstrap,python,javascript,firebase,express,mongodb,docker,linux,git,github,vscode&theme=dark" alt="Tech Icons"/>
-</p>
-
----
-
-## 📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riteshyadav31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=riteshyadav31&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshyadav31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
-</p>
-
----
-
-## 🐍 **Contribution Snake**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/riteshyadav31/riteshyadav31/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## 🌍 **Connect With Me**
-
-<p align="center">
-  <a href="mailto:dev.ritesh.in@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="[https://www.linkedin.com/in/ritesh-yadav](https://www.linkedin.com/in/ritesh-yadav-446118274/](https://www.linkedin.com/in/ritesh-yadav-446118274/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/riteshyadav31" target="_blank">
+  <a href="https://github.com/riteshyadav31">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-## 🎯 **Fun Fact**
+## 👨‍💻 About Me
 
-> “When I’m not coding, I’m tweaking configs, automating something, or sipping coffee thinking about my next big project ☕💡”
+🚀 I'm a **Python Backend Developer** focused on building clean, reliable, and scalable backend applications.
+
+🐍 Working primarily with **Python and FastAPI** to develop RESTful APIs and backend systems.
+
+⚡ Experienced in building APIs with proper validation, authentication, database integration, and business logic.
+
+🌐 I also have knowledge of **HTML, CSS, JavaScript, and Java**, which helps me understand complete application architecture.
+
+💡 Currently improving my skills in **Backend Development, REST APIs, SQL, FastAPI, and System Design**.
+
+🎯 **Goal:** To become a strong Backend Engineer and build production-ready applications.
+
+☕ **Quote:** _"Build. Learn. Improve. Repeat."_
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=120&section=footer&text=Thanks+for+Visiting!+💜&fontSize=25&fontColor=fff&animation=fadeIn" alt="Footer"/>
+## ⚡ Tech Stack
+
+### 🐍 Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java" alt="Backend Technologies"/>
 </p>
+
+- Python
+- FastAPI
+- REST APIs
+- Java
+- API Development
+- JWT Authentication
+- Pydantic
+- SQLAlchemy
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" alt="Database Technologies"/>
+</p>
+
+- SQL
+- SQLite
+- MySQL
+- MongoDB
+- Database Design
+- CRUD Operations
+
+### 🌐 Frontend Knowledge
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Frontend Technologies"/>
+</p>
+
+- HTML
+- CSS
+- JavaScript
+- Basic Frontend Integration
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Development Tools"/>
+</p>
+
+- Git
+- GitHub
+- VS Code
+
+
+---
+
+## 🚀 What I Build
+
+```text
+🐍 Python Backend Applications
+⚡ FastAPI REST APIs
+🔐 JWT Authentication Systems
+🗄️ Database-Driven Applications
+📄 AI-Powered Backend Applications
+🔄 CRUD & Business Logic APIs
+🌐 Frontend-Backend Integrations
