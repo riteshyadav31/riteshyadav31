@@ -1,100 +1,165 @@
-<!-- 🚀 Python Backend Developer  -->
+<!-- ========================= HEADER ========================= -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ritesh+Yadav;Python+Backend+Developer;FastAPI+%7C+REST+API+Developer;Building+Scalable+Backend+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:dev.ritesh.in@gmail.com">
-    <img src="https://img.shields.io/badge/💻%20Open%20for%20Work-00AEEF?style=for-the-badge&logo=gmail&logoColor=white" alt="Open for Work"/>
-  </a>
+# 👋 Hi, I'm Ritesh Yadav
 
-  <a href="https://github.com/riteshyadav31">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+### Full-Stack Developer • AI Enthusiast • MCA Graduate
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Exploring+AI+%26+Backend+Development;Turning+ideas+into+real-world+products;Always+learning%2C+always+building." alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/riteshyadav31">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- ========================= ABOUT ========================= -->
+
+## 🚀 About Me
+
+I'm an **MCA graduate from KNIT Sultanpur** with a strong interest in
+**full-stack development, backend engineering, AI, and cybersecurity**.
+
+I enjoy building practical applications that solve real-world problems,
+while continuously exploring modern technologies and development practices.
+
+- 💻 Building full-stack web applications
+- 🤖 Exploring AI-powered applications
+- ⚙️ Interested in backend & API development
+- 🔐 Learning application security & cybersecurity
+- 📚 Continuously improving my technical skills
+- 🚀 Turning ideas into working products
+
+---
+
+<!-- ========================= TECH STACK ========================= -->
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java,javascript" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,docker,git,github,postman" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ========================= PROJECTS ========================= -->
 
-🚀 I'm a **Python Backend Developer** focused on building clean, reliable, and scalable backend applications.
+## 📌 Featured Projects
 
-🐍 Working primarily with **Python and FastAPI** to develop RESTful APIs and backend systems.
+### 🤖 AI Resume Analyzer
 
-⚡ Experienced in building APIs with proper validation, authentication, database integration, and business logic.
+An AI-powered application that analyzes resumes against job descriptions
+and provides structured feedback.
 
-🌐 I also have knowledge of **HTML, CSS, JavaScript, and Java**, which helps me understand complete application architecture.
-
-💡 Currently improving my skills in **Backend Development, REST APIs, SQL, FastAPI, and System Design**.
-
-🎯 **Goal:** To become a strong Backend Engineer and build production-ready applications.
-
-☕ **Quote:** _"Build. Learn. Improve. Repeat."_
+**Tech:** `FastAPI` `Python` `SQLAlchemy` `SQLite` `PyMuPDF` `Gemini API` `JWT`
 
 ---
 
-## ⚡ Tech Stack
+### 📦 KhataGuru
 
-### 🐍 Backend Development
+A web-based billing and inventory management system designed to help
+businesses manage products, inventory and invoices.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java" alt="Backend Technologies"/>
-</p>
-
-- Python
-- FastAPI
-- REST APIs
-- Java
-- API Development
-- JWT Authentication
-- Pydantic
-- SQLAlchemy
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" alt="Database Technologies"/>
-</p>
-
-- SQL
-- SQLite
-- MySQL
-- MongoDB
-- Database Design
-- CRUD Operations
-
-### 🌐 Frontend Knowledge
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Frontend Technologies"/>
-</p>
-
-- HTML
-- CSS
-- JavaScript
-- Basic Frontend Integration
-
-### 🛠️ Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Development Tools"/>
-</p>
-
-- Git
-- GitHub
-- VS Code
-
+**Tech:** `HTML` `CSS` `JavaScript` `Firebase`
 
 ---
 
-## 🚀 What I Build
+### 🏫 Campus Connect
+
+A responsive campus portal designed to provide students with announcements,
+events, resources and club information through an interactive interface.
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+🔗 **Live:**  
+https://riteshyadav31.github.io/Campus-connect-/
+
+---
+
+### 🏠 Real Estate Platform
+
+A modern real estate web application with authentication, property listings,
+role-based access and cloud-based image management.
+
+**Tech:** `JavaScript` `Firebase` `Firestore` `Cloudinary`
+
+---
+
+<!-- ========================= GITHUB STATS ========================= -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=riteshyadav31&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshyadav31&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=riteshyadav31&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ========================= CONTRIBUTION GRAPH ========================= -->
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/riteshyadav31/riteshyadav31/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+<!-- ========================= CURRENTLY ========================= -->
+
+## 🌱 Currently Exploring
 
 ```text
-🐍 Python Backend Applications
-⚡ FastAPI REST APIs
-🔐 JWT Authentication Systems
-🗄️ Database-Driven Applications
-📄 AI-Powered Backend Applications
-🔄 CRUD & Business Logic APIs
-🌐 Frontend-Backend Integrations
+Full-Stack Development
+        ↓
+Backend Engineering
+        ↓
+AI & LLM Applications
+        ↓
+System & Software Security
+        ↓
+Scalable Software Architecture
