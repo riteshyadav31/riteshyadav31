@@ -2,17 +2,22 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Ritesh Yadav
-
-### Full-Stack Developer • AI Enthusiast • MCA Graduate
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Exploring+AI+%26+Backend+Development;Turning+ideas+into+real-world+products;Always+learning%2C+always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ritesh+Yadav+%F0%9F%91%8B" alt="Name Animation" />
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+Enthusiast;Backend+Developer;MCA+Graduate;Cybersecurity+Learner" alt="Role Animation" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1300&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+modern+web+applications;Exploring+AI+%26+Backend+Development;Turning+ideas+into+real-world+products;Always+learning%2C+always+building." alt="Intro Animation" />
+
+<br/><br/>
 
 <a href="https://github.com/riteshyadav31">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -127,6 +132,8 @@ role-based access and cloud-based image management.
 
 ---
 
+<!-- ========================= STREAK ========================= -->
+
 ## 🔥 Contribution Streak
 
 <div align="center">
@@ -149,17 +156,30 @@ role-based access and cloud-based image management.
 
 ---
 
-<!-- ========================= CURRENTLY ========================= -->
+<!-- ========================= CURRENTLY EXPLORING ========================= -->
 
 ## 🌱 Currently Exploring
 
-```text
-Full-Stack Development
-        ↓
-Backend Engineering
-        ↓
-AI & LLM Applications
-        ↓
-System & Software Security
-        ↓
-Scalable Software Architecture
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full-Stack+Development;Backend+Engineering;AI+%26+LLM+Applications;System+%26+Software+Security;Scalable+Software+Architecture" alt="Currently Exploring" />
+
+</div>
+
+---
+
+<!-- ========================= FOOTER ========================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=8B5CF6&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;Keep+Building+%F0%9F%9A%80;Keep+Learning+%F0%9F%93%9A;Keep+Growing+%F0%9F%8C%B1;See+you+in+the+next+commit+%F0%9F%91%8B" alt="Footer Animation" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=riteshyadav31&style=for-the-badge&color=8B5CF6" alt="Profile Views" />
+
+<br/><br/>
+
+**Made with ❤️ and lots of code**
+
+</div>
